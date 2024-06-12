@@ -6,3 +6,6 @@ with Progress() as progress:
     for i in range(100):
         sleep(0.1)
         progress.update(task, advance=1)
+
+
+# Processing... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:00
